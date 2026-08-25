@@ -1,0 +1,5 @@
+Myenv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+application_train.csv
